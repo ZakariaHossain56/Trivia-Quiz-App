@@ -1,5 +1,6 @@
 
 ## Trivia Quiz App
+A quiz app featuring user authentication, custom quizzes and API-powered questions.
 
 ### Project Features
 - Secure user sign-in and sign-up for personalized experience
