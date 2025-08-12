@@ -37,7 +37,7 @@
 
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ZakariaHossain56/Trivia-Quiz-App/master/snapshots/Song_List.jpg" alt="Join quiz" width="200">
+      <img src="https://raw.githubusercontent.com/ZakariaHossain56/Trivia-Quiz-App/master/snapshots/join_quiz.png" alt="Join quiz" width="200">
       <div align="center"><i>Join quiz</i></div>
     </td>
     <td>
@@ -45,7 +45,7 @@
       <div align="center"><i>Right ans</i></div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/ZakariaHossain56/Trivia-Quiz-App/master/snapshots/wrong_ans" alt="Wrong ans" width="200">
+      <img src="https://raw.githubusercontent.com/ZakariaHossain56/Trivia-Quiz-App/master/snapshots/wrong_ans.png" alt="Wrong ans" width="200">
       <div align="center"><i>Wrong ans</i></div>
     </td>
     <td>
